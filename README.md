@@ -33,7 +33,7 @@ Building on Day 1's foundation, the second day will delve into advanced discours
 
 ### LDA
 
-* Py
+* pyLDAvis
 
 ### Sentiment Analysis
 
