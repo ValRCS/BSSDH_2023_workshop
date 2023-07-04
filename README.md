@@ -15,9 +15,21 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
 ### Tokenization
 
+### Stemming vs Lemmatization
+
+* https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html
+* Caring -> car?!
+
 ### Stemming
 
+
 ### Lemmatization
+* nltk
+* Spacy
+* Latvian language serviceand other
+
+### Stopwords
+
 
 ### Gensim
 
