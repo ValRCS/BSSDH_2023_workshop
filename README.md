@@ -43,12 +43,20 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
 Building on Day 1's foundation, the second day will delve into advanced discourse analysis techniques and machine learning applications, utilizing Scikit-learn and Gensim. Participants will explore various algorithms for topic modeling, such as Latent Dirichlet Allocation (LDA), and sentiment analysis, including Naïve Bayes and Support Vector Machines (SVM). Attendees will learn how to evaluate and fine-tune their models for optimal performance. The workshop will culminate in the creation of interactive visualizations using the Plotly library, empowering participants to effectively communicate their findings and insights to a broader audience.
 
-### LDA
+### Topic modeling with - LDA - Latent Dirichlet Allocation
 
+* history of LDA
+* running LDA using gensim
 * pyLDAvis
 
 ### Sentiment Analysis
+* heiristic based sentiment analysis
+* ml based sentiment analysis
 
 ### Fine-Tuning
 
 ### Plotly Visualization
+
+### Assignment
+
+Students will start with a raw corpus file that they will have to clean, pre-process, analyze and provide some results including visualization.
