@@ -13,7 +13,19 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
 ### Text Cleaning Techniques
 
+### Normalization
+* changing case
+* removing symbols, accents
+* Unicode normalization - https://unicode.org/reports/tr15/#Norm_Forms
+
+## Pre-tokenization
+
 ### Tokenization
+* whitespace
+* word level
+* sentence level
+* BPE - byte pair level encoding - see https://huggingface.co/learn/nlp-course/chapter6/5?fw=pt
+* Wordpiece tokenization - by Google similar to BPE
 
 ### Stemming vs Lemmatization
 
