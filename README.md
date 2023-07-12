@@ -11,6 +11,21 @@ Recommended experience includes primitive data types, conditionals, iteration, l
 
 Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
+## Hardware/Software requirements in the order of preference
+
+1. **Visual Studio Code with Python extension, Python itself and installed git** - Preferred (used by Instructor)
+2. Any computer with modern browser and ability to connect to Google Colab
+3. PyCharm (includes Python and git support)
+4. Your own custom Jupyter Notebooks setup with Python
+
+## Setup
+
+* git - issues with notebooks
+* 
+### Installling libraries
+
+### Practice with virtual enviroments - venv
+
 ### Text Cleaning Techniques
 
 ### Normalization
