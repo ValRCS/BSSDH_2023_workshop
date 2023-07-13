@@ -22,12 +22,20 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
 ## Setup
 
-* git - issues with notebooks
+* git installation - issues with notebooks
 * 
-### Installling libraries
 
 ### Practice with virtual enviroments - venv
 
+**KEY idea** - Python virtual enviroments are light virtualization within OS - basically folders and symlinks (contrast with containerization using Docker and heavy virtualization with VirtualBox. VMware)
+* https://docs.python.org/3/library/venv.html
+* https://code.visualstudio.com/docs/python/environments
+* Other IDEs such as PyCharm also offer virtual enviroment creation
+
+* ### Installing libraries
+* Installing external libraries on Colab
+* Installing external libraries locally
+* 
 ### Text Cleaning Techniques
 
 ### Normalization
