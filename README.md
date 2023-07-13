@@ -1,4 +1,6 @@
-# BSSDH_2023_workshop
+# BSSDH_2023_workshop on Advanced Python techniques for text content analysis
+
+Program - http://www.digitalhumanities.lv/bssdh/2023/lectures-and-workshops/
 
 ## Day 1 - 25.07.2023
 
