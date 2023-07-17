@@ -15,10 +15,19 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
 ## Hardware/Software requirements in the order of preference
 
-1. **Visual Studio Code with Python extension, Python itself and installed git** - Preferred (used by Instructor)
-2. Any computer with modern browser and ability to connect to Google Colab
+1. Easiest - Any computer with modern browser and ability to connect to Google Colab (requires google account - gmail)
+2. **Visual Studio Code with Python extension, Python itself and installed git** - Preferred but not required(used by Instructor)
 3. PyCharm (includes Python and git support)
 4. Your own custom Jupyter Notebooks setup with Python
+
+## Test minimal prerequisites
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/weiji14/deepbedmap/](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/test_python_setup.ipynb)]
+
+If you can run the above Notebook in enviroment of your choice (Google Colab, or locally) with no errors - you are ready for the workshop!
+
+
+
 
 ## Setup
 
