@@ -16,7 +16,7 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 ## Hardware/Software requirements in the order of preference
 
 1. Easiest - Any computer with a modern browser and the ability to connect to Google Colab (requires google account - gmail)
-2. **Visual Studio Code with Python extension, Python itself and installed git** - Preferred but not required(used by Instructor)
+2. **Visual Studio Code with Python extension, Python itself and installed git** - Preferred but not required(used by Instructor) [Local Install Instructions](https://github.com/ValRCS/BSSDH_2023_workshop/blob/main/INSTALL.md)
 3. PyCharm (includes Python and git support)
 4. Your own custom Jupyter Notebooks setup with Python
 
@@ -31,8 +31,8 @@ If you can run the above Notebook in an environment of your choice (Google Colab
 
 ## Setup
 
-* git installation - issues with notebooks
-* 
+OPTIONAL: If you want to install this project locally on your computer - [Local Install Instructions](https://github.com/ValRCS/BSSDH_2023_workshop/blob/main/INSTALL.md)
+
 
 ### Practice with virtual environments - venv
 
