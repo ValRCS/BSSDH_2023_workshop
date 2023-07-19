@@ -52,3 +52,26 @@ If you see `fatal: destination path 'BSSDH_2023_workshop' already exists and is 
 *  You could have used Visual Studio Code built in git support and chosen Clone Git Repository
 *  PyCharm has similar functionality for cloning git projects
 *  You could have used external graphical git tool, such as Github Desktop or any other tool from: https://git-scm.com/download/gui/windows
+
+## Navigate to project folder
+
+```Powershell
+PS C:\Users\vsaules\Github> cd .\BSSDH_2023_workshop\
+```
+### Alternative open BSSDH_2023 folder in your IDE
+
+You can also open BSSDH_2023 folder in your favorite editor/IDE such as Visual Studio Code
+Once your project is opened, open a terminal window inside IDE (it is functionally the same as external terminal window)
+
+## Check that you are in the correct directory/folder
+
+```Powershell
+PS C:\Users\vsaules\Github\BSSDH_2023_workshop> git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+```
+Above message means your project is current with Github version. You are now ready to setup Python!
+
+
