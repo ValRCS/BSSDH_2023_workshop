@@ -104,7 +104,7 @@ Similarly pip.exe should be found a in folder such as `C:\Program Files\Python31
 
 * Win-E -> opens File Explorer -> choose disk drive such as C: -> enter python.exe in Search in upper right corner and wait a few minutes for Windows to find python.exe
 * It is possible that search finds multiple copies of python.exe (it is a small 100-500kb file)
-* Note which python.exe file is most recent most likely it will have Python310 or Python311 in the name
+* Note which python.exe file is most recent most likely it will have Python310 or Python311 in the folder name
 * Now check the subfolder Scripts of the folder where python.exe was found.
 * Scripts subfolder should contain pip.exe 
 
@@ -178,10 +178,11 @@ If the script runs without errors you are good to go!
 ### Verifying that Jupyter notebook enviroment works
 
 If you are using Visual Studio Code you might want to check that you can run local notebooks
-Simply open project folder, and open test_python_setup.ipynb
 
-You can now run the notebook, but you might be asked which python kernel to use.
-Select one that is located in venv folder 
+* Open VS Code in BSSDH_2023_workshop folder, and open test_python_setup.ipynb
+
+* You can now run the notebook, but you might be asked which python kernel to use.
+* Select one that is located in venv folder of BSSDH_2023_workshop parent folder
 
 If notebook runs without error you are super ready to go! Congratulations!
 
