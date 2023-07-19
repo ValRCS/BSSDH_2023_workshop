@@ -24,11 +24,9 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/test_python_setup.ipynb)
 
-<a href="[https://cdn.pixabay.com/photo/2022/07/12/08/15/grass-7316770_960_720.jpg](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/test_python_setup.ipynb)" target="_blank">
-    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" >
-</a>
+<a target="_blank" href="https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/test_python_setup.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/84f0493939e0c4de4e6dbe113251b4bfb5353e57134ffd9fcab6b8714514d4d1/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667" alt="Open In Colab" data-canonical-src="https://colab.research.google.com/assets/colab-badge.svg" style="max-width: 100%;"></a>
 
-If you can run the above Notebook in enviroment of your choice (Google Colab, or locally) with no errors - you are ready for the workshop!
+If you can run the above Notebook in environment of your choice (Google Colab, or locally) with no errors - you are ready for the workshop!
 
 
 
