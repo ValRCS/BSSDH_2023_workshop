@@ -4,7 +4,8 @@
 
 * Open up your favorite terminal - PowerShell (Win-R powershell) on Windows 10 example here
 
-```PS C:\Users\vsaules\Github\BSSDH_2023_workshop> git --version
+```Powershell
+PS C:\Users\vsaules\Github\BSSDH_2023_workshop> git --version
 git version 2.41.0.windows.3
 ```
 * Above shows the most current version for summer of 2023.
