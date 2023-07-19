@@ -36,4 +36,19 @@ Enter the following command to clone the project into current folder
 
 ```Powershell
 PS C:\Users\vsaules\Github> git clone https://github.com/ValRCS/BSSDH_2023_workshop.git
+Cloning into 'BSSDH_2023_workshop'...
+remote: Enumerating objects: 155, done.
+remote: Counting objects: 100% (155/155), done.
+remote: Compressing objects: 100% (129/129), done.
+remote: Total 155 (delta 95), reused 59 (delta 25), pack-reused 0
+Receiving objects: 100% (155/155), 48.97 KiB | 1.06 MiB/s, done.
+Resolving deltas: 100% (95/95), done.
 ```
+Exact numbers will likely differ but you should be seeing many done messages like above.
+If you see `fatal: destination path 'BSSDH_2023_workshop' already exists and is not an empty directory.` this means that you already cloned this project or have a BSSDH_2023_workshop folder already in your current folder.
+
+### Alternatives to cloning from command line
+
+*  You could have used Visual Studio Code built in git support and chosen Clone Git Repository
+*  PyCharm has similar functionality for cloning git projects
+*  You could have used external graphical git tool, such as Github Desktop or any other tool from: https://git-scm.com/download/gui/windows
