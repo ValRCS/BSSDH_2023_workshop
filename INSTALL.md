@@ -35,5 +35,5 @@ fatal: not a git repository (or any of the parent directories): .git
 Enter the following command to clone the project into current folder
 
 ```Powershell
-git clone https://github.com/ValRCS/BSSDH_2023_workshop.git
+PS C:\Users\vsaules\Github> git clone https://github.com/ValRCS/BSSDH_2023_workshop.git
 ```
