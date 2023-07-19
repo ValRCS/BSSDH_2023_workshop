@@ -160,12 +160,20 @@ Version numbers are not super important but should be close to what is shown abo
 There is a requirements.txt plaintext file in main folder of the project. It holds information on external libraries.
 Let's install ALL libraries from this file at once.
 
-WARNING: This will take 5-20 minutes and take up around 1GB of drive space
+WARNING: This will take 5-30 minutes depending on how fast your computer is and how fast your SSD is.
+Installation will take up around 1GB of drive space
 
 ```Powershell
 pip install -r requirements.txt
 ```
 
+### Anaconda conda alternative to pip
+
+If you have been using Anaconda distribution, it is most likely that most libraries are already installed.
+
+You can also set up virtual environments with conda instead of pip and install libraries with conda.
+Advantage of conda is that it has better tested packages but not every package will be the latest one.
+Conda use is beyond scope of this tutorial but you can check tutorial: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
 ## Verifying that installation was successful
 
