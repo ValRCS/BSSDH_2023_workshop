@@ -187,9 +187,10 @@ If the script runs without errors you are good to go!
 
 If you are using Visual Studio Code you might want to check that you can run local notebooks
 
-* Open VS Code in BSSDH_2023_workshop folder, and open test_python_setup.ipynb
+* Open VS Code in BSSDH_2023_workshop folder, and open test_python_setup.ipynb in notebooks subfolder
 
-* You can now run the notebook, but you might be asked which python kernel to use.
+* You can now run the notebook, but you might be asked which python kernel to use. 
+* There might be `Detecting kernels` message in the upper right corner you can click on that one and select correct kernel.
 * Select one that is located in venv folder of BSSDH_2023_workshop parent folder
 
 If notebook runs without error you are super ready to go! Congratulations!
