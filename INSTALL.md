@@ -100,7 +100,7 @@ If it is recent Python, there is no need to install it again.
 Main thing is that you figure out where python.exe file is found it is most likely in a folder such as `C:\Program Files\Python311\`
 Similarly pip.exe should be found a in folder such as `C:\Program Files\Python311\Scripts`
 
-#### If you do know where you installed Python you can find out by Search
+#### If you do NOT know where you installed Python you can find out by Search
 
 * Win-E -> opens File Explorer -> choose disk drive such as C: -> enter python.exe in Search in upper right corner and wait a few minutes for Windows to find python.exe
 * It is possible that search finds multiple copies of python.exe (it is a small 100-500kb file)
