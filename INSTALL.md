@@ -21,7 +21,7 @@ git version 2.41.0.windows.3
 
 **It is crucial that you clone this (and any other) git project into a directory that is currently not under git version control.**
 This is the most common mistake I've seen students make when using git for checking out external projects.
-```
+```Powershell
 PS C:\Users\vsaules\Github> git status
 fatal: not a git repository (or any of the parent directories): .git
 ```
@@ -34,6 +34,6 @@ fatal: not a git repository (or any of the parent directories): .git
 
 Enter the following command to clone the project into current folder
 
-```
+```Powershell
 git clone https://github.com/ValRCS/BSSDH_2023_workshop.git
 ```
