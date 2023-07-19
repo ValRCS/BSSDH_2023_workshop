@@ -164,8 +164,9 @@ WARNING: This will take 5-30 minutes depending on how fast your computer is and 
 Installation will take up around 1GB of drive space
 
 ```Powershell
-pip install -r requirements.txt
+(venv) PS C:\Users\vsaules\Github\BSSDH_2023_workshop> pip install -r requirements.txt
 ```
+Go grab a coffee or tea or your favorite beverage as pip works hard to download and install required packages/libraries and install their dependencies(other libraries) automatically.
 
 ### Anaconda conda alternative to pip
 
