@@ -131,6 +131,59 @@ PS C:\Users\vsaules\Github\BSSDH_2023_workshop> python -m venv venv
 ```
 The above command will create a venv folder (with subfolders) in your current folder, could take some seconds, but should be less than minute.
 
+### Activate virtual envirnoment
+
+Powershell example (there are other activate scripts for bash terminal and others)
+```Powershell
+PS C:\Users\vsaules\Github\BSSDH_2023_workshop> .\venv\Scripts\Activate.ps1
+(venv) PS C:\Users\vsaules\Github\BSSDH_2023_workshop>
+```
+You should be seeing (venv) prefix before your current path.
+
+### Check your virtual environment
+
+```Powershell
+(venv) PS C:\Users\vsaules\Github\BSSDH_2023_workshop> python --version
+Python 3.11.4
+(venv) PS C:\Users\vsaules\Github\BSSDH_2023_workshop> pip --version
+pip 23.1.2 from C:\Users\vsaules\Github\BSSDH_2023_workshop\venv\Lib\site-packages\pip (python 3.11)
+(venv) PS C:\Users\vsaules\Github\BSSDH_2023_workshop> pip list
+Package    Version
+---------- -------
+pip        23.1.2
+setuptools 65.5.0
+```
+Version numbers are not super important but should be close to what is shown above. (current for summer of 2023)
+
+### Installing libraries from requirements.txt
+
+There is a requirements.txt plaintext file in main folder of the project. It holds information on external libraries.
+Let's install ALL libraries from this file at once.
+
+WARNING: This will take 5-20 minutes and take up around 1GB of drive space
+
+```Powershell
+pip install -r requirements.txt
+```
+
+
+## Verifying that installation was successful
+
+Run 
+```Powershell
+(venv) PS C:\Users\vsaules\Github\BSSDH_2023_workshop> python .\scripts\test_python_libraries.py
+```
+If the script runs without errors you are good to go!
+
+### Verifying that Jupyter notebook enviroment works
+
+If you are using Visual Studio Code you might want to check that you can run local notebooks
+Simply open project folder, and open test_python_setup.ipynb
+
+You can now run the notebook, but you might be asked which python kernel to use.
+Select one that is located in venv folder 
+
+If notebook runs without error you are super ready to go! Congratulations!
 
 
 
