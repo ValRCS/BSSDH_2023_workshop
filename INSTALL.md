@@ -180,6 +180,16 @@ Conda use is beyond scope of this tutorial but you can check tutorial: https://c
 Run 
 ```Powershell
 (venv) PS C:\Users\vsaules\Github\BSSDH_2023_workshop> python .\scripts\test_python_libraries.py
+Current date and time: 2023-07-19 15:33:45.625281
+Python version 3.11.4 (tags/v3.11.4:d2340ef, Jun  7 2023, 05:45:37) [MSC v.1934 64 bit (AMD64)]
+Pandas version 2.0.3
+Numpy version 1.24.4
+Requests version 2.31.0
+Gensim version 4.3.1
+Scikit-learn version 1.3.0
+Plotly version 5.15.0
+spaCy version 3.6.0
+Imports finished at: 2023-07-19 15:33:48.192709
 ```
 If the script runs without errors you are good to go!
 
