@@ -5,11 +5,12 @@
 * Open up your favorite terminal - PowerShell (Win-R powershell) on Windows 10 example here
 
 ```Powershell
-PS C:\Users\vsaules\Github\BSSDH_2023_workshop> git --version
+PS C:\Users\vsaules\Github> git --version
 git version 2.41.0.windows.3
 ```
 * Above shows the most current version for summer of 2023.
 * Any git version above 2.23 should be fine
+* `C:\Users\vsaules\Github` is user specific could be `D:\Users\Alice\MyDocuments` if your user name is Alice and you store your documents in D drive
 
 ### If you do not have git, install it from: https://git-scm.com/
 
