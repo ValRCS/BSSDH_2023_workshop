@@ -22,7 +22,11 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
 ## Test minimal prerequisites
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/test_python_setup.ipynb){:target="_blank"}
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/test_python_setup.ipynb)
+
+<a href="[https://cdn.pixabay.com/photo/2022/07/12/08/15/grass-7316770_960_720.jpg](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/test_python_setup.ipynb)" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" >
+</a>
 
 If you can run the above Notebook in enviroment of your choice (Google Colab, or locally) with no errors - you are ready for the workshop!
 
