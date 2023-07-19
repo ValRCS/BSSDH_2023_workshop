@@ -100,24 +100,41 @@ If it is recent Python, there is no need to install it again.
 Main thing is that you figure out where python.exe file is found it is most likely in a folder such as `C:\Program Files\Python311\`
 Similarly pip.exe should be found a in folder such as `C:\Program Files\Python311\Scripts`
 
-If you do know where you installed Python you can find out by Search
-Win-E -> opens File Explorer -> choose disk drive such as C: -> enter python.exe in Search in upper right corner and wait a few minutes for Windows to find python.exe
-It is possible that search finds multiple copies of python.exe (it is a small 100-500kb file)
-Note which python.exe file is most recent most likely it will have Python310 or Python311 in the name
-Now check the subfolder Scripts of the folder where python.exe was found.
-Scripts subfolder should contain pip.exe 
+#### If you do know where you installed Python you can find out by Search
 
-Note the full path names of these folders (one with Python311 at end , one with Python311/Scripts at the end)
+* Win-E -> opens File Explorer -> choose disk drive such as C: -> enter python.exe in Search in upper right corner and wait a few minutes for Windows to find python.exe
+* It is possible that search finds multiple copies of python.exe (it is a small 100-500kb file)
+* Note which python.exe file is most recent most likely it will have Python310 or Python311 in the name
+* Now check the subfolder Scripts of the folder where python.exe was found.
+* Scripts subfolder should contain pip.exe 
 
-Find System Enviroment variables (Win-S system env) -> Edit the system enviroment variables
-You will see System Properties navigate to Advanced
-Click on Environment Variables button
-In Environment Variables window navigate to Path in the System Variable sub-window, click on Edit
-Click New button and create a new entry for your python path such as `C:\Program Files\Python311`
-Similarly make another entry for pip path such as `C:\Program Files\Python311\Scripts`
+* Note the full path names of these folders (one with Python311 at end , one with Python311/Scripts at the end)
+
+#### Update System Environment with Python and pip paths 
+* Find System Enviroment variables (Win-S system env) -> Edit the system enviroment variables
+* You will see System Properties navigate to Advanced
+* Click on Environment Variables button
+* In Environment Variables window navigate to Path in the System Variable sub-window, click on Edit
+* Click New button and create a new entry for your python path such as `C:\Program Files\Python311`
+* Similarly make another entry for pip path such as `C:\Program Files\Python311\Scripts`
 
 Close (OK) all System enviroment variables windows.
-Restart your terminal.
+Restart your terminal and check `python --version` and `pip --version` again .
+
+### Create Virtual Environment for this project
+
+It is a good practice to setup separate environments for different Python projects.
+That can help avoid version conflicts for external libraries.
+
+```Powershell
+PS C:\Users\vsaules\Github\BSSDH_2023_workshop> python -m venv venv
+```
+The above command will create a venv folder (with subfolders) in your current folder, could take some seconds, but should be less than minute.
+
+
+
+
+
 
 
 
