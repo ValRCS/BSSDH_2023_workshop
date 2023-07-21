@@ -26,6 +26,11 @@ Helpful but not required experience: Jupyter Notebooks including Google Colab.
 
 If you can run the above Notebook in an environment of your choice (Google Colab, or locally) with no errors - you are ready for the workshop!
 
+## Practice Your Python Notebook skills (includes NumPy and Pandas library refresher)
+
+Here is a Python syntax refresher, optional if you have good working knowledge of Python.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/python_colab.ipynb)
 
 
 
