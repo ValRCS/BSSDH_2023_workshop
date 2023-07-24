@@ -38,6 +38,41 @@ Here is a Python syntax refresher, optional if you have good working knowledge o
 
 OPTIONAL: If you want to install this project locally on your computer - [Local Install Instructions](https://github.com/ValRCS/BSSDH_2023_workshop/blob/main/INSTALL.md)
 
+## Day 1
+
+Use the links below if you did not perform a local installation of Python and/or did not clone this repository to your computer
+
+### Part 1 - Collecting Data
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/day1_part1.ipynb)
+
+### Part 2 - Preprocessing, processing data
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/day1_part2_processing.ipynb)
+
+### Part 3 - Creating Embeddings
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/day1_part3_embeddings.ipynb)
+
+## Day 2
+
+Use the links below if you did not perform a local installation of Python and/or did not clone this repository to your computer
+
+### Part 4 (Day 2 Part 1) - modeling
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/day2_part1_modeling.ipynb)
+
+### Part 5 (Day 2 Part 2) - Visualizating results
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/day2_part2_visualizing_results.ipynb)
+
+### Part 6 (Day 3 Part 3) - Student Work in class
+
+This is your chance to shine! Using the provided notebook below add your own code using your own data sources.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ValRCS/BSSDH_2023_workshop/blob/main/notebooks/day2_part3_student_work.ipynb)
+
+
 
 ### Practice with virtual environments - venv
 
