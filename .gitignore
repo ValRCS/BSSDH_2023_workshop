@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 notebooks/temp
+notebooks/old_bailey_sample_1720_1913_cleaned_embeddings.pkl
